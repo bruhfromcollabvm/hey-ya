@@ -1,2 +1,2 @@
-taskkill hey.vbs
-taskkill launcher.bat
+taskkill cmd.exe
+taskkill wshost.exe
