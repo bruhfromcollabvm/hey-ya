@@ -1,2 +1,2 @@
-taskkill cmd.exe
 taskkill wscript.exe
+taskkill cmd.exe
